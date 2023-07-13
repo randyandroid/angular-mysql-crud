@@ -5,11 +5,13 @@ Programador: Randy Marmol
 Fecha: 12/07/2023
 Ultima modificacion:
 
-1-Carpeta folder
+[Title](server)
 
 Aqui se encuentra todo lo relacionado al servidor consta de los siguientes Archivos:
 
-*Carpeta build: donde se encuentra el codigo principal del proyecto en un archivo Javascript
-*Carpeta Node_Modules: Aqui se encuentran todos los modulos a utilizar de Node y Angular
-*Carpeta SRC: Aqui se encuentran los Archivos con el codigo en Typescript
- 
+ [Title](server/build): Donde se encuentra el codigo principal del proyecto en un archivo Javascript
+ [Title](server/node_modules): Aqui se encuentran todos los modulos a utilizar de Node y Angular
+ [Title](server/src): Aqui se encuentran los Archivos con el codigo en Typescript
+ [Title](server/package-lock.json): Archivos Lock del Json
+ [Title](server/package.json):Configuraciones del servidor, scripts y configuraciones generales.
+ [Title](server/tsconfig.json): Configuraciones Generales de Typescript
